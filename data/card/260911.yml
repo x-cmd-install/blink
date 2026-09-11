@@ -7,7 +7,7 @@ about:
   latestVersion: "1.1.0"
   latestRelease: "1.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:38:52Z
+  collectedAt: 2026-09-11T19:18:25Z
 timeline:
   created: 2022-11-03
   lastCommit: 2025-12-10
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 7579
   watcher: 66
-  fork: 279
+  fork: 278
   release: 2
   contributor: 22
   pullRequest: 113
@@ -90,7 +90,7 @@ total:
   commit: 621
 ---
 path: /home/runner/.x-repo/github.com/jart/blink
-collectedAt: 2026-09-11T05:38:55Z
+collectedAt: 2026-09-11T19:18:30Z
 loc:
   C:
     code: 61069
