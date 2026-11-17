@@ -37,22 +37,22 @@ Total: **86,431** lines of code across **426** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,609 · **Forks**: 285 · **Open issues**: 90 · **Contributors**: 22
+- **Stars**: 7,609 · **Forks**: 286 · **Open issues**: 90 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 92 · **Open PRs**: 15 · **Closed issues**: 46 · **Open issues**: 44 · **Commits**: 621
+- **Releases**: 2 · **Merged PRs**: 92 · **Open PRs**: 16 · **Closed issues**: 46 · **Open issues**: 44 · **Commits**: 621
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 4 | 0 | 3 | 0 |
-| 360d | 2025-11-21 | 0 | 4 | 7 | 1 | 5 | 5 |
-| last720d | 2024-11-26 | 0 | 8 | 13 | 2 | 14 | 11 |
+| 30d | 2026-10-18 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 4 | 0 | 1 | 0 |
+| 90d | 2026-08-19 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last180d | 2026-05-21 | 0 | 0 | 5 | 0 | 3 | 0 |
+| 360d | 2025-11-22 | 0 | 4 | 8 | 1 | 5 | 5 |
+| last720d | 2024-11-27 | 0 | 8 | 14 | 2 | 14 | 11 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for blink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:47:53Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:53:50Z._
